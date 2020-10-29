@@ -10,10 +10,10 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-![](images/1.PNG)
+<br/>
+                   <img src="https://github.com/anamtakhan035/leaders-dashboard/blob/main/Images/1.PNG" width="80%" text-align="center" />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<img src="https://github.com/anamtakhan035/leaders-dashboard/blob/main/Images/2.PNG" width="80%" text-align="center" />.
 
 ### `npm test`
 
