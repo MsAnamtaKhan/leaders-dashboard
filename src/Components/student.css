@@ -1,0 +1,77 @@
+.score {
+    font-size: 30px;
+    font-weight: bold;
+    color: green;
+}
+h2.universityName {
+    padding: 0px;
+    margin: 0px;
+}
+h2.studentName {
+    padding: 0px;
+    margin: 0px;
+}
+.right {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.left {
+    width: 60%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+.student {
+    width: 700px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+button.addScore{
+    border:none;
+    background:blue;
+    color:white;
+    border-radius: 100px;
+    width:20px;
+    height:20px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    top:-3px;
+    left:7px;
+}
+button.minusScore{
+    border:none;
+    background:red;
+    color:white;
+    border-radius: 100px;
+    width:20px;
+    height:20px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    top:-3px;
+    left:12px;
+}
+button.addScore:hover {
+    background: green;
+}
+button.minusScore:hover {
+    background: yellow;
+    color:red;
+}
+p.universityName span{
+    background: darkgreen;
+    color:white;
+    line-height: 17px;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 1px 5px;
+    border-radius: 3px;
+}
