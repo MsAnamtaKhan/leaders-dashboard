@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Dashboard shows Student name,University and their marks.
                    <img src="https://github.com/anamtakhan035/leaders-dashboard/blob/main/Images/1.PNG" width="80%" text-align="center" />
 
-If the Score is less than 40 it will show the message of failure and success if the numbers is greater tha equal to 350.
+If the Score is less than 40 it will show the message of failure and success if the numbers is >= 350.
 <img src="https://github.com/anamtakhan035/leaders-dashboard/blob/main/Images/2.PNG" width="80%" text-align="center" />.
 
 ### `npm test`
